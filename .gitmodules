@@ -1,0 +1,4 @@
+[submodule "src/UTF8Lite"]
+	path = src/UTF8Lite
+	url = git@github.com:Rubashevskiy/UTF8Lite.git
+	branch = submodule
